@@ -5,3 +5,4 @@ Git tracks changes.
 Git is very good.
 Git is simple.
 Git test.
+Creating a new branch is quick & simple.
