@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git is very good.
 Git is simple.
+Git test.
